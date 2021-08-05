@@ -1,9 +1,0 @@
-{
-	"name": "DeepZatakiyaDF",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "7d7a4cb8-c52b-4ba6-9b69-2a22ddf5ac17",
-		"tenantId": "13f564dd-7666-4949-86aa-3ca10ecdb5ad"
-	}
-}
